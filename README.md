@@ -1,8 +1,6 @@
 # Melhorando_cod_com_IA
-apenas um exercício de melhorar o código com IA 
-<img width="724" height="352" alt="image" src="https://github.com/user-attachments/assets/1ea94b2a-552d-4c33-9a21-0c15a130c009" />
-<img width="684" height="264" alt="image" src="https://github.com/user-attachments/assets/cbd667e7-79f4-452c-8adf-c051a3ec9d64" />
-<img width="683" height="281" alt="image" src="https://github.com/user-attachments/assets/7713090f-cfba-4e10-96f6-16b7e5c919d4" />
+apenas um exercício de melhorar o código com IA e este abaixo é um resumo rápido
+![Otimização com IA](resumoemimagemOtimizaçãoComIA.png)
 
 
 
